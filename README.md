@@ -18,7 +18,7 @@
 ## Short description
 - 🔭 I’m currently working on - Data Science and AI based applications. Most of my work is based on Computer vision and general analytics
 - 🌱 I’m currently learning - Pytorch, NLP and deploying AI models
-- 👯 I’m looking to collaborate with - Employers, Kaaglers and Researchers, if you have a good idea or ready to offer me a FTE let's work together
+- 👯 I’m looking to collaborate with - Employers, Kagglers and Researchers, if you have a good idea or ready to offer me a FTE let's work together
 - 💬 Ask me about - Data Science, Machine Learning, Deep Learning, Random ideas and expereinces 
 - ⚡ Fun fact - I love learning new things, I like working as a team, and I am an amazing listener
 
