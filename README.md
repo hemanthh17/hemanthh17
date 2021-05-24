@@ -1,5 +1,5 @@
-https://images.unsplash.com/photo-1551029506-0807df4e2031?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJvb2t8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
-### Hi Hemanth Here 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![image](https://user-images.githubusercontent.com/49975886/119341978-10622480-bcb2-11eb-85fe-9f199888d0ad.png)
+### Hi Hemanth Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Your short description
 - 🔭 I’m currently working on - Data Science and AI based applications. Most of my work is based on Computer vision and general analytics
 - 🌱 I’m currently learning - Pytorch, NLP and deploying AI models
