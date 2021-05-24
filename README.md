@@ -4,10 +4,14 @@
 </div>
 <br>
 <div align="center">
+  
 ![](https://img.shields.io/badge/-Machine%20Learning-blue)
 ![](https://img.shields.io/badge/-Deep%20Learning-brightgreend)
 ![](https://img.shields.io/badge/-Data%20Science-green)
 ![](https://img.shields.io/badge/-IoT-yellow)
+</div>
+<br>
+</div>
 ## Short description
 - 🔭 I’m currently working on - Data Science and AI based applications. Most of my work is based on Computer vision and general analytics
 - 🌱 I’m currently learning - Pytorch, NLP and deploying AI models
