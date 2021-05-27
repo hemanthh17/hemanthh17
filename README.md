@@ -22,6 +22,14 @@
 - 💬 Ask me about - Data Science, Machine Learning, Deep Learning, Random ideas and expereinces 
 - ⚡ Fun fact - I love learning new things, I like working as a team, and I am an amazing listener
 
+## Some Of my Achievements
+- Winner of best AI, Data Scence project in Equinox'21
+- Incoming Mitacs GRI Intern, <b>Concordia University,CA</b>. My project is based on Machine Learning
+- First runner up in Dataiothon conducted by VIT,Chennai
+- Working with <b>SAMSUNG R&D, India</b> on an AI project
+- Volunteer at NSS and had got lot of chances to serve the society
+- Selected for a project submission on Space Settlement and invited for attending the <b>International Space Development conference, Toronto, Canada (ISDC) in the year 2015</b>
+
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanthh17&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthh17&theme=react&line_height=27&layout=compact)
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
