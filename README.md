@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/49975886/119346751-3e4a6780-bcb8-11eb-9d7f-4ced758167cd.png)
 ### Hi Hemanth Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<div align="center">I am a 4th year student of Electronics and Communications Engg and working as  <b>Freelance CV Researcher in Pzeros</b>. I was extremely fascinated towards Data Science after I took my first course in Machine and Deep Learning, after which I have been dedicatedly working on various small projects where automation is required. I also love participating in Hackathons and I am very active on Kaggle. I always love discussing and sharing my views with the Data Science community and I truly believe a career in this field is a marathon and everyday you get to learn new. It is not the destination but the journey that matters.
+<div align="center">I am a 4th year student of Electronics and Communications Engg and discovering my career in <b>Data Science</b>. I was extremely fascinated towards Data Science after I took my first course in Machine and Deep Learning, after which I have been dedicatedly working on various small projects where automation is required. I also love participating in Hackathons and I am very active on Kaggle. I always love discussing and sharing my views with the Data Science community and I truly believe a career in this field is a marathon and everyday you get to learn new. It is not the destination but the journey that matters.
 
 <br>
 <div align="center">
@@ -18,7 +18,7 @@
 ## Short description
 - 🔭 I’m currently working on - Data Science and AI based applications. Most of my work is based on Computer vision and general analytics
 - 🌱 I’m currently learning - Pytorch, NLP and deploying AI models
-- 👯 I’m looking to collaborate with - Employers, Kagglers and Researchers, if you have a good idea or ready to offer me a FTE let's work together
+- 👯 I’m looking to collaborate with - Employers, Kagglers and Researchers, if you have a good idea let's work together
 - 💬 Ask me about - Data Science, Machine Learning, Deep Learning, Random ideas and expereinces 
 - ⚡ Fun fact - I love learning new things, I like working as a team, and I am an amazing listener
 
