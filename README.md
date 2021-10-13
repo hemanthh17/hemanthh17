@@ -32,6 +32,25 @@
 
 [![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=hemanthh17&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthh17&theme=react&line_height=27&layout=compact)
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hemanthh17&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+<!--   Top Languages Used -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemanthh17&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthh17&theme=nord_dark)
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemanthh17&theme=github)
+
+ <br> 
+ 
+ <hr>
+ 
+ <br>
+
+  <div align="center">
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
