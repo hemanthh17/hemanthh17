@@ -54,7 +54,7 @@
  
  <br>
 
-  <div align="center">
+  <div align="center"></div>
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
