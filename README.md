@@ -46,7 +46,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hemanthh17&theme=github)
+ [![Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthh17&theme=github)](https://github.com/hemanthh17/github-readme-activity-graph)
+
 
  <br> 
  
