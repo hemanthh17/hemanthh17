@@ -44,19 +44,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthh17&theme=nord_dark)
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- [![Hemanth's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemanthh17&theme=github)](https://github.com/hemanthh17/github-readme-activity-graph)
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center"></div>
-  <br>
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
