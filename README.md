@@ -38,12 +38,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=hemanthh17&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
   
-<!--   Top Languages Used -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemanthh17&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemanthh17&theme=nord_dark)
-
-
 ## Connect with me: <img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
