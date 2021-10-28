@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/49975886/119346751-3e4a6780-bcb8-11eb-9d7f-4ced758167cd.png)
+![image](https://github.com/hemanthh17/hemanthh17/blob/main/Hemanth%20Harikrishnan.png)
 ### Hi Hemanth Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div align="center">I am a 4th year student of Electronics and Communications Engg and discovering my career in <b>Data Science</b>. I was extremely fascinated towards Data Science after I took my first course in Machine and Deep Learning, after which I have been dedicatedly working on various small projects where automation is required. I also love participating in Hackathons and I am very active on Kaggle. I always love discussing and sharing my views with the Data Science community and I truly believe a career in this field is a marathon and everyday you get to learn new. It is not the destination but the journey that matters.
 
