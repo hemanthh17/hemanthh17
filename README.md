@@ -25,7 +25,7 @@
 ## Some Of my Achievements
 - Winner of best AI, Data Scence project in Equinox'21
 - Worked as Mitacs GRI Intern, <b>Concordia University,CA</b>. My project is based on Machine Learning
-- 1x Master on <b>Kaggle</b>
+- 1x Expert on <b>Kaggle</b>
 - Worked with <b>SAMSUNG R&D, India</b> on an AI project
 - Volunteer at NSS and had got lot of chances to serve the society
 - Selected for a project submission on Space Settlement and invited for attending the <b>International Space Development conference, Toronto, Canada (ISDC) in the year 2015</b>
