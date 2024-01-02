@@ -22,7 +22,7 @@
 - ⚡ Fun fact - I love learning new things, I like working as a team, and I am an amazing listener
 
 ## Some Of my Achievements
-- Leading team at my university for Enterprise Challenge and the problem statement is from Aerogen.
+- Title winner of the Enterprise Challenge where the problem statement is from Aerogen.
 - Winner of best AI, Data Scence project in Equinox'21
 - Worked as Mitacs GRI Intern, <b>Concordia University,CA</b>. My project is based on Machine Learning
 - 1x Expert on <b>Kaggle</b>
